@@ -1,6 +1,3 @@
-Sure, here's a Markdown-formatted CV suitable for GitHub. Markdown (`.md`) is a plain text formatting syntax that GitHub supports for rendering text and presenting it in a structured and clean manner.
-
-```markdown
 # Leonardo Castaño
 
 ## Contact Information:
@@ -70,6 +67,4 @@ Migration project:
 ## Personal Research
 - **Project:** Leveraged Istio, Kubernetes, Kiali, and other Kubernetes ecosystem tools to explore and experiment with mesh service architecture.
 - **Achievements:** Demonstrated the seamless integration of Istio for advanced service discovery, traffic management, and observability, utilizing Kiali for visualising and monitoring the microservices within the cluster. Explored the capabilities of the Kubernetes ecosystem to enhance deployed applications' resilience, scalability, and security.
-```
 
-This Markdown format provides a structured presentation of your CV on GitHub. It includes headers, bullet points, and bold formatting to ensure that the information is easy to navigate and read. You can paste this directly into a Markdown file (`.md`) in your GitHub repository.
